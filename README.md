@@ -39,4 +39,4 @@ For any issues or suggestions, please feel free to [mention your preferred conta
 
 ## Disclaimer
 
-This extension utilizes the [removepaywall.com](https://www.removepaywall.com) service. The effectiveness of paywall bypassing may vary depending on the website and the methods used by RemovePaywall. Use of this extension is subject to the terms and conditions of the removepaywall.com service. The developers of this extension are not affiliated with removepaywall.com and are not responsible for its functionality or availability.
+This extension utilizes the [removepaywall.com](https://www.removepaywall.com) service.
